@@ -16,8 +16,8 @@ public class DeusÉTop {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String a = "Deus é Top";
-        System.out.println("a");
+        String a = "Deus é Top ♪☻♥";
+        System.out.println(a);
     }
     
 }
